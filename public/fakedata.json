@@ -1,78 +1,97 @@
 [
     {
         "name": "Child Support",
-        "img": "https://i.ibb.co/k541vWD/child-Support.png"
+        "img": "https://i.ibb.co/k541vWD/child-Support.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Refuge Shelter",
-        "img": "https://i.ibb.co/353YGHK/refuse-Shelter.png"
+        "img": "https://i.ibb.co/353YGHK/refuse-Shelter.png",
+        "cardbg": "FF7044"
     },
     {
         "name": "Food Charity",
-        "img": "https://i.ibb.co/gt9vgd3/food-Charity.png"
+        "img": "https://i.ibb.co/gt9vgd3/food-Charity.png",
+        "cardbg": "3F90FC"
     },
     {
         "name": "Host Clothing Swap",
-        "img": "https://i.ibb.co/n70tTCM/cloth-Swap.png"
+        "img": "https://i.ibb.co/n70tTCM/cloth-Swap.png",
+        "cardbg": "421FCF"
     },
     {
         "name": "Host River Cleanup",
-        "img": "https://i.ibb.co/k4Spc0g/river-Clean.png"
+        "img": "https://i.ibb.co/k4Spc0g/river-Clean.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Clean water for children",
-        "img": "https://i.ibb.co/5jfJbc6/clean-Water.png"
+        "img": "https://i.ibb.co/5jfJbc6/clean-Water.png",
+        "cardbg": "FF7044"
     },
     {
         "name": "Good Education",
-        "img": "https://i.ibb.co/jR3m4Q8/good-Education.png"
+        "img": "https://i.ibb.co/jR3m4Q8/good-Education.png",
+        "cardbg": "421FCF"
     },
     {
         "name": "New Book for Children",
-        "img": "https://i.ibb.co/TLFNB6x/newBooks.png"
+        "img": "https://i.ibb.co/TLFNB6x/newBooks.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Host Study Group",
-        "img": "https://i.ibb.co/YZTY4nj/study-Group.png"
+        "img": "https://i.ibb.co/YZTY4nj/study-Group.png",
+        "cardbg": "3F90FC"
     },
     {
         "name": "Build Birdhouse",
-        "img": "https://i.ibb.co/YpXJ98H/bird-House.png"
+        "img": "https://i.ibb.co/YpXJ98H/bird-House.png",
+        "cardbg": "FF7044"
     },
     {
         "name": "Organize Books at library",
-        "img": "https://i.ibb.co/VMPhnJs/library-Books.png"
+        "img": "https://i.ibb.co/VMPhnJs/library-Books.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Seminar on Driving safety",
-        "img": "https://i.ibb.co/ZJXQHWf/drive-Safety.png"
+        "img": "https://i.ibb.co/ZJXQHWf/drive-Safety.png",
+        "cardbg": "421FCF"
     },
     {
         "name": "Free music lessons",
-        "img": "https://i.ibb.co/C71GR3K/music-Lessons.png"
+        "img": "https://i.ibb.co/C71GR3K/music-Lessons.png",
+        "cardbg": "FF7044"
     },
     {
         "name": "Teach people to Vote",
-        "img": "https://i.ibb.co/BVVtSqL/vote-Register.png"
+        "img": "https://i.ibb.co/BVVtSqL/vote-Register.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Clean up local park",
-        "img": "https://i.ibb.co/WHt5QrB/clearn-Park.png"
+        "img": "https://i.ibb.co/WHt5QrB/clearn-Park.png",
+        "cardbg": "3F90FC"
     },
     {
         "name": "IT Help to Locals",
-        "img": "https://i.ibb.co/LgQT5dC/ITHelp.png"
+        "img": "https://i.ibb.co/LgQT5dC/ITHelp.png",
+        "cardbg": "FF7044"
     },
     {
         "name": "Babysitting during PTA",
-        "img": "https://i.ibb.co/6NVDQm9/babySit.png"
+        "img": "https://i.ibb.co/6NVDQm9/babySit.png",
+        "cardbg": "FFBD3E"
     },
     {
         "name": "Collect Stuffed Animals",
-        "img": "https://i.ibb.co/Gdq2Zp0/stuffed-Animals.png"
+        "img": "https://i.ibb.co/Gdq2Zp0/stuffed-Animals.png",
+        "cardbg": "421FCF"
     },
     {
         "name": "Collect school supplies",
-        "img": "https://i.ibb.co/51FCRnR/school-Suffiles.png"
+        "img": "https://i.ibb.co/51FCRnR/school-Suffiles.png",
+        "cardbg": "3F90FC"
     }
 ]
