@@ -48,7 +48,7 @@ const Header = () => {
               </ul>
               <Link style={{ textDecoration: 'none' }} to="/register">
                 <button type="button" className="btn btn-primary">
-                  Register
+                  Signup
                 </button>
               </Link>
               <Link style={{ textDecoration: 'none' }} to="/login">

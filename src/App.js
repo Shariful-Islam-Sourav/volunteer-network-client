@@ -7,6 +7,7 @@ import Register from "./components/Register/Register";
 import Login from "./components/Login/Login";
 import Events from "./components/Events/Events";
 import AddEvents from "./components/AddEvents/AddEvents";
+import RegisterEvent from "./components/RegisterEvent/RegisterEvent";
 
 function App() {
   return (
@@ -31,6 +32,9 @@ function App() {
           </Route>
           <Route exact path="/addEvents">
             <AddEvents></AddEvents>
+          </Route>
+          <Route exact path="/registerEvent/:name">
+            <RegisterEvent></RegisterEvent>
           </Route>
           <Route exact path="*">
             <NotFound></NotFound>

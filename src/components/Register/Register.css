@@ -1,14 +1,14 @@
 .volunteer-bg {
-  background: #f8fafc;
   height: calc(100vh - 102px);
+  background: #f8fafc;
 }
 
 .login-box {
-    width: 570px;
-    height: 435px;
-    border-radius: 25px;
+  width: 570px;
+  height: 435px;
+  border-radius: 25px;
 }
 
 .volunteer-login-btn {
-    cursor: pointer;
+  cursor: pointer; 
 }
