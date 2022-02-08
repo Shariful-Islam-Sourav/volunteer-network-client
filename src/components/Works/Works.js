@@ -10,7 +10,7 @@ const Works = () => {
       .then(data => setWorks(data))
   }, []);
   return (
-  <Row xs={1} md={3} className="g-4 my-5">
+  <Row xs={1} md={3} lg={4} className="g-4 my-5 text-center">
       {works.map((work) => <Work works={work} key={work.name}></Work>)}
   </Row>
   );
